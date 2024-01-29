@@ -1,2 +1,2 @@
-# Word-Counter
-Word-Counter is a web-based application constructed with Django. It serves the purpose of gauging typing speed and providing the dictionary order of words inputted into the text area.
+# My Django Project
+Word Counter is a web-based application constructed with Django. It provides the dictionary order of the words inputted into the text area.
